@@ -7,13 +7,13 @@ This project is a machine learning-based web application that predicts whether a
 The objective of this project is to build a predictive model using patient health data and deploy it as a web application for real-time predictions.
 
 ## Project Structure
-├── templates # HTML templates for web interface
-├── main.py # Flask app for prediction UI
-├── train.py # Script to train the model
-├── test.py # Script to test the model
-├── train.csv # Dataset used for training
-├── model_file.pkl # Saved trained model
-├── model_file_pickle.pkl # Alternative saved model file
+-├── templates # HTML templates for web interface
+-├── main.py # Flask app for prediction UI
+-├── train.py # Script to train the model
+-├── test.py # Script to test the model
+-├── train.csv # Dataset used for training
+-├── model_file.pkl # Saved trained model
+-├── model_file_pickle.pkl # Alternative saved model file
 
 
 ## What I Implemented
